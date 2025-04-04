@@ -1,10 +1,44 @@
 #corpo {
   border: 3px solid black;
-  width: 600px;
-  height: 800px;
-}
-#banner {
+  width: auto;
+  height: auto;
+  
+    }
+#centro_geral {
+    border: 3px solid greenyellow;
+    width: auto;
+    height: auto;
+        
+    }
+#topo {
   border: 3px solid blue;
-  width: 200px;
-  height: 300px;
+  width: auto;
+  height: 150px;
+}
+#centro {
+  border: 3px solid brown;
+  width: 58%;
+  height: 600px;
+  margin:auto;
+  display: inline-block;
+}
+
+#direita {
+  border: 3px solid red;
+  width: 20%;
+  height: 600px;
+  margin-left: auto;
+  display: inline-block;
+    }
+#esquerda {
+  border: 3px solid pink;
+  width: 20%;
+  height: 600px;
+  margin-right: auto;
+  display: inline-block;
+    }
+#rodape {
+  border: 3px solid green;
+  width: auto;
+  height: 50px;
 }
