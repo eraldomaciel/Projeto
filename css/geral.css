@@ -17,7 +17,11 @@
 }
 #centro {
   border: 3px solid brown;
+<<<<<<< HEAD
   width: 58%;
+=======
+  width: 65%;
+>>>>>>> e391e8a6f73f709b6952f6f302c465d9fe158719
   height: 600px;
   margin:auto;
   display: inline-block;
@@ -25,14 +29,22 @@
 
 #direita {
   border: 3px solid red;
+<<<<<<< HEAD
   width: 20%;
+=======
+  width: 15%;
+>>>>>>> e391e8a6f73f709b6952f6f302c465d9fe158719
   height: 600px;
   margin-left: auto;
   display: inline-block;
     }
 #esquerda {
   border: 3px solid pink;
+<<<<<<< HEAD
   width: 20%;
+=======
+  width: 15%;
+>>>>>>> e391e8a6f73f709b6952f6f302c465d9fe158719
   height: 600px;
   margin-right: auto;
   display: inline-block;
@@ -41,4 +53,8 @@
   border: 3px solid green;
   width: auto;
   height: 50px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e391e8a6f73f709b6952f6f302c465d9fe158719
